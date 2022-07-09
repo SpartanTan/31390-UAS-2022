@@ -1,0 +1,3 @@
+[submodule "uas-31390"]
+	path = uas-31390
+	url = https://github.com/DavidWuthier/uas-31390.git
